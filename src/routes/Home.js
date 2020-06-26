@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-const API_KEY ='05542e36559de019967088aaa2ccb705';
+
 
 class Home extends Component{
  
